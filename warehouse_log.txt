@@ -1,0 +1,48 @@
+th1 -> SATIS (-) Ürün: Islemci Miktar: 10 Güncel Stok: 10
+th6 -> Hata: Depo kapasitesi doldu. işlem yapılamıyor: Islemci
+th5 -> SATIS (-) Ürün: Ekran Karti Miktar: 10 Güncel Stok: 0
+th4 -> SATIS (-) Ürün: Anakart Miktar: 15 Güncel Stok: 5
+th3 -> Hata: Depoda stok yok. Ürün: Ekran Karti
+th2 -> TEDARIK (+) Ürün: Islemci Miktar: 20 Güncel Stok: 30
+th1 -> SATIS (-) Ürün: Islemci Miktar: 10 Güncel Stok: 10
+th6 -> Hata: Depo kapasitesi doldu. işlem yapılamıyor: Islemci
+th5 -> SATIS (-) Ürün: Ekran Karti Miktar: 10 Güncel Stok: 0
+th4 -> SATIS (-) Ürün: Anakart Miktar: 15 Güncel Stok: 5
+th3 -> Hata: Depoda stok yok. Ürün: Ekran Karti
+th2 -> TEDARIK (+) Ürün: Islemci Miktar: 20 Güncel Stok: 30
+th2 -> Hata: Depo kapasitesi doldu. işlem yapılamıyor: Islemci
+th6 -> Hata: Depo kapasitesi doldu. işlem yapılamıyor: Islemci
+th5 -> SATIS (-) Ürün: Ekran Karti Miktar: 10 Güncel Stok: 0
+th4 -> SATIS (-) Ürün: Anakart Miktar: 15 Güncel Stok: 5
+th3 -> Hata: Depoda stok yok. Ürün: Ekran Karti
+th1 -> SATIS (-) Ürün: Islemci Miktar: 10 Güncel Stok: 10
+th1 -> SATIS (-) Ürün: Islemci Miktar: 10 Güncel Stok: 10
+th6 -> Hata: Depo kapasitesi doldu. işlem yapılamıyor: Islemci
+th5 -> SATIS (-) Ürün: Ekran Karti Miktar: 10 Güncel Stok: 0
+th4 -> SATIS (-) Ürün: Anakart Miktar: 15 Güncel Stok: 5
+th3 -> Hata: Depoda stok yok. Ürün: Ekran Karti
+th2 -> TEDARIK (+) Ürün: Islemci Miktar: 20 Güncel Stok: 30
+th1 -> SATIS (-) Ürün: Islemci Miktar: 10 Güncel Stok: 10
+th6 -> Hata: Depo kapasitesi doldu. işlem yapılamıyor: Islemci
+th5 -> SATIS (-) Ürün: Ekran Karti Miktar: 10 Güncel Stok: 0
+th4 -> SATIS (-) Ürün: Anakart Miktar: 15 Güncel Stok: 5
+th3 -> Hata: Depoda stok yok. Ürün: Ekran Karti
+th2 -> TEDARIK (+) Ürün: Islemci Miktar: 20 Güncel Stok: 30
+th1 -> SATIS (-) Ürün: Islemci Miktar: 10 Güncel Stok: 10
+th6 -> Hata: Depo kapasitesi doldu. işlem yapılamıyor: Islemci
+th4 -> SATIS (-) Ürün: Anakart Miktar: 15 Güncel Stok: 5
+th3 -> SATIS (-) Ürün: Ekran Karti Miktar: 5 Güncel Stok: 5
+th5 -> Hata: Depoda stok yok. Ürün: Ekran Karti
+th2 -> TEDARIK (+) Ürün: Islemci Miktar: 20 Güncel Stok: 30
+th1 -> SATIS (-) Ürün: Islemci Miktar: 10 Güncel Stok: 10
+th6 -> Hata: Depo kapasitesi doldu. işlem yapılamıyor: Islemci
+th5 -> SATIS (-) Ürün: Ekran Karti Miktar: 10 Güncel Stok: 0
+th4 -> SATIS (-) Ürün: Anakart Miktar: 15 Güncel Stok: 5
+th3 -> Hata: Depoda stok yok. Ürün: Ekran Karti
+th2 -> TEDARIK (+) Ürün: Islemci Miktar: 20 Güncel Stok: 30
+th1 -> SATIS (-) Ürün: Islemci Miktar: 10 Güncel Stok: 10
+th6 -> Hata: Depo kapasitesi doldu. işlem yapılamıyor: Islemci
+th5 -> SATIS (-) Ürün: Ekran Karti Miktar: 10 Güncel Stok: 0
+th4 -> SATIS (-) Ürün: Anakart Miktar: 15 Güncel Stok: 5
+th3 -> Hata: Depoda stok yok. Ürün: Ekran Karti
+th2 -> TEDARIK (+) Ürün: Islemci Miktar: 20 Güncel Stok: 30

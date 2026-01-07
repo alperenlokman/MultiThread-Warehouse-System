@@ -1,0 +1,8 @@
+
+
+ --- Depo Durumu --- 
+
+
+Ürün: Islemci I Stok: 30
+Ürün: Ekran Karti I Stok: 0
+Ürün: Anakart I Stok: 5
